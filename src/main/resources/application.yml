@@ -1,0 +1,12 @@
+server:
+  port: 9002
+#JSP
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/
+      suffix: .jsp
+  devtools:
+    livereload:
+      enabled: true
+  
