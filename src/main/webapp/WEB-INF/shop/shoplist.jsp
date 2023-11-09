@@ -11,8 +11,10 @@
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
 <title>Insert title here</title>
 </head>
-<body>
-	안녕하세요<br>오늘은 젠킨스 CICD 파이프라인 구축할 예정입니다<br>
+<body>?
+
++\***/	안녕하세요<br>오늘은 젠킨스 CICD 파이프라인 구축할 예정입니다<br>
 	<img alt="" src="../avc6.jpg">
+	<h1>zooyoung i am 바보에요</h1>
 </body>
 </html>
